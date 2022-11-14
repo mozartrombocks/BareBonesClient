@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\shadm\Documents\myworks2\BareBonesClient\BareBonesClient\main.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\shadm\Documents\myworks2\BareBonesClient\BareBonesClient\main.cpp(62,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  BareBonesClient.vcxproj -> C:\Users\shadm\Documents\myworks2\BareBonesClient\x64\Debug\BareBonesClient.exe
